@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<individual>
+    <name>Demo Name</name>
+    <address>
+        <zip>10016</zip>
+        <city>New York</city>
+    </address>
+</individual>
